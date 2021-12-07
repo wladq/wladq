@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @wladq
 - 👀 I’m interested in data analysis and machine learning topics
 - 🌱 I’m currently studying Astrophysics and Cosmology with making data analysis courses connected with analysing particle physics data
-
+- 📧 You can reach out me at vladar3vvv@yahoo.com
 
 <!---
 wladq/wladq is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
